@@ -1,4 +1,4 @@
 //  HelloWorld
 int main void {
-	printf("Hello, World! Fuck the world!\n");
+	printf("Hello, World! Let the world burn!\n");
 }
